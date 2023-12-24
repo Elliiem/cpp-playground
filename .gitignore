@@ -1,0 +1,4 @@
+build/
+Programs/*
+!Programs/hello-cmake
+!Programs/hello-world
